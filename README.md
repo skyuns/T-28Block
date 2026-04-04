@@ -1,5 +1,5 @@
-# T-28Block
-T-28戰術方塊 Tactical Block: Double-28 Tactical System (28 Blocks & 28 Treasures). Hardcore falling-block puzzle and line-clearing game. Features GAU-8 Cannon, Thor's Hammer, and AI automation. <1MB Vanilla JS+HTML+CSS. | 雙 28 戰術體系：28 種方塊 (2-5格) 堆疊消行遊戲 ＋ 28 種戰術寶物。搭載 GAU-8 機砲、雷神之槌、流星雨與 AI 自動化，<1MB 原生代碼鑄造。 | 双 28 战术体系：28 种方块 (2-5格) 堆叠消行游戏 ＋ 28 种战术宝物。搭载 GAU-8 机炮、雷神之锤、流星雨与 AI 自动化，<1MB 原生代码铸造。
+# 🧱 T-28Block
+🧱 T-28戰術方塊 Tactical Block: Double-28 Tactical System (28 Blocks & 28 Treasures). Hardcore falling-block puzzle and line-clearing game. Features GAU-8 Cannon, Thor's Hammer, and AI automation. <1MB Vanilla JS+HTML+CSS. | 雙 28 戰術體系：28 種方塊 (2-5格) 堆疊消行遊戲 ＋ 28 種戰術寶物。搭載 GAU-8 機砲、雷神之槌、流星雨與 AI 自動化，<1MB 原生代碼鑄造。 | 双 28 战术体系：28 种方块 (2-5格) 堆叠消行游戏 ＋ 28 种战术宝物。搭载 GAU-8 机炮、雷神之锤、流星雨与 AI 自动化，<1MB 原生代码铸造。
 
 ---
 
